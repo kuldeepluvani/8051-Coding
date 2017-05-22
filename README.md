@@ -50,7 +50,9 @@ MOV 23H,A
 
 The answer would be in following address, (23H 22H 21H 20H).
 
-Ex. - You have two 16 bit Hex number. FFFF & EF9D.
+Example:
+
+You have two 16 bit Hex number. FFFF & EF9D.
 
 So here,
 
